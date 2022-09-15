@@ -15,3 +15,5 @@ const date = New Date();
 https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Date
 
 간단한 맞춤법 문제, 영단어 문제로 출발할 것입니다. 나중에는 코딩 문제로 확장할 것입니다.  
+
+요구사항 정의같은 꼼수로 1일1커밋도 가능합니다.
