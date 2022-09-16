@@ -17,3 +17,6 @@ https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Da
 간단한 맞춤법 문제, 영단어 문제로 출발할 것입니다. 나중에는 코딩 문제로 확장할 것입니다.  
 
 요구사항 정의같은 꼼수로 1일1커밋도 가능합니다.
+
+# 이 프로젝트를 하는 이유
+간단해서 진행합니다. 그리고 실제로 제가 사용할 예정입니다. 저는 맞춤법, 영어스펠링에 상당히 약합니다. 그래서 더티코더(dirty programmer)가 되기 쉽상입니다. 
