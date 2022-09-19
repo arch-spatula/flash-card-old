@@ -1,6 +1,7 @@
+# flash-card
+
 Status: Meme
 
-# flash-card
 플래시 카드 토이프로젝트입니다.  
 
 플래시 카드란 간격을 두고 암기하는 학습법입니다.  
@@ -31,3 +32,6 @@ https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Da
 # 이 프로젝트를 하는 이유
 요구사항 정의같은 꼼수로 1일1커밋도 가능합니다.
 간단해서 진행합니다. 그리고 실제로 제가 사용할 예정입니다. 저는 맞춤법, 영어스펠링에 상당히 약합니다. 그래서 더티코더(dirty programmer)가 되기 쉽상입니다. 
+
+# 작업 계획
+`vanilla javascript`로 시작할 것입니다. 나중에 자바스크립트 라이브러리를 선택하고 리팩토링할 것입니다.
